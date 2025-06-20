@@ -825,8 +825,8 @@ and the White Guard Knights.",ui\00_message\quest_info\q00000003_00.gmd,\ui\hist
 7,q00000003_00_960,アルフレドに成果を報告する,Report your results to Alfred,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,
 8,q00000003_00_961,騎士団員らのいる場所に行く,Return to the troops' location,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,8,Alfred
 8,q00000003_00_961,騎士団員らのいる場所に行く,Return to the troops' location,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,8,
-9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,"Port back to the Temple and report to Leo",ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred
-9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,"Port back to the Temple and report to Leo",ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,9,
+9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,"Warp back to the Temple and report to Leo",ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred
+9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,"Warp back to the Temple and report to Leo",ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,9,
 4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Register the Tel Village Portcrystal,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred
 4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Register the Tel Village Portcrystal,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,
 0,q00000004_00_5,異界の戦士,Soldiers of the Rift,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo
@@ -837,14 +837,12 @@ the Pawn Settlement and complete the challenge there.",ui\00_message\quest_info\
 1,q00000004_00_5,"ポーンとの契約を果たすため
 ポーン郷へ赴き試練に挑む","In order to acquire a pawn, head to
 the Pawn Settlement and complete the challenge there.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,
-2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,"Port to Tel and hear what Alfred has to say",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris
-2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,"Port to Tel and hear what Alfred has to say",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,
+2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,"Warp to Tel and hear what Alfred has to say",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris
+2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,"Warp to Tel and hear what Alfred has to say",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,
 3,q00000004_00_964,エリア情報とその内容を確認する,Check the Area Information with Alfred,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris
 3,q00000004_00_964,エリア情報とその内容を確認する,Check the Area Information with Alfred,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,"Pass through the Hunters' Secret Passage
-to reach the Pawn Cathedral at the other side.",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,"Pass through the Hunters' Secret Passage
-to reach the Pawn Cathedral at the other side.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,"Take the Hunters' Secret Passage to reach the Pawn Cathedral",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,"Take the Hunters' Secret Passage to reach the Pawn Cathedral",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,
 6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Register the Pawn Cathedral Portcrystal,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus
 6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Register the Pawn Cathedral Portcrystal,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,
 7,q00000004_00_1537,アルヴァーと話す,Speak with Alvar,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus

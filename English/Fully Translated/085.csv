@@ -1146,8 +1146,8 @@ depths of the forest.
 The era and purpose of their construction are
 completely shrouded in mystery.
 However, it is speculated that they are related
-to dragons and the Arisen, based on the mosaic
-pattern laid on the floor.
+to dragons and the Arisen, based on the
+mosaic pattern laid on the floor.
 It is also a hazardous location where Dragon
 Force tends to stagnate.",ui\00_message\loading\loading_message_003.gmd,\ui\00_message\loading\loading_message_003.arc,loading_message_003.arc,4,
 0,,"リンウッドほど近くにある地下水路
@@ -1155,12 +1155,14 @@ Force tends to stagnate.",ui\00_message\loading\loading_message_003.gmd,\ui\00_m
 この水路で河川の水位を調整し水害に備えていた
 リンウッドが水路を閉鎖した後も魔物は増え、
 時に凶暴な大猿が出没することもある","An underground waterway near Lynwood.
-Although it has been abandoned by monsters for a
-long time, in the past, this waterway was used to
-adjust the water level of the river and prepare
-for floods. Even after Lynwood closed the
-waterway, the number of monsters increased, and
-sometimes ferocious apes would haunt the area.",ui\00_message\loading\loading_message_003.gmd,\ui\00_message\loading\loading_message_003.arc,loading_message_003.arc,5,
+Although it has been abandoned by monsters
+for a good while now, in its prime, this
+waterway was used to adjust the flow
+of the river and act as flood prevention.
+After Lynwood closed the waterway,
+the monsters within have increased their
+number, and ferocious apes have appeared
+to haunt the surrounding area.",ui\00_message\loading\loading_message_003.gmd,\ui\00_message\loading\loading_message_003.arc,loading_message_003.arc,5,
 0,,"<COL ffdc78>【宝飾】の扉あり</COL>
 ミスリウ森林から深部へ続く洞穴に埋もれていた古い
 地下墓地。夜間、どこからともなく森に現れる不死者
